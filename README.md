@@ -1,12 +1,5 @@
 # Anderson - Desenvolvedor Web Full-Stack
 # Aoba, cabra bom!👋 
-### Eu sou o Anderson, um desenvolvedor web full-stack. Minhas habilidades abrangem HTML, CSS, JavaScript, ReactJS, NodeJS e PHP (Xodó de todos). Sempre em busca de soluções inovadoras, estou comprometido em criar experiências web funcionais.
-
-### 🔭 Atualmente estou trabalhando no Aurosoft. Um sistema de gestão escolar que estou desenvolvendo para a empresa na qual trabalho para que eles possam parar de pagar mensalidade num software que é paia demais.
-
-### 🌱 No momento estou estudando Ciências Contábeis pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco. Em relação a programação comecei a estudar Java.
-
-### ⚡ __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
 
 Minhas Stacks:
 <div style="display:flex;gap:2px">    
@@ -16,6 +9,15 @@ Minhas Stacks:
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40" />
 </div>
+
+# Sobre mim
+### Eu sou o Anderson, um desenvolvedor web full-stack. Minhas habilidades abrangem HTML, CSS, JavaScript, ReactJS, NodeJS e PHP (Xodó de todos). Sempre em busca de soluções inovadoras, estou comprometido em criar experiências web funcionais.
+
+### 🔭 Atualmente estou trabalhando no Aurosoft. Um sistema de gestão escolar que estou desenvolvendo para a empresa na qual trabalho para que eles possam parar de pagar mensalidade num software que é paia demais.
+
+### 🌱 No momento estou estudando Ciências Contábeis pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco. Em relação a programação comecei a estudar Java.
+
+### ⚡ __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
 
 Contatos:
 <div style="display:flex;gap:2px">
