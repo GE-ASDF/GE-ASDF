@@ -3,6 +3,10 @@
 🔭 Atualmente estou trabalhando no Aurosoft. Um sistema de gestão escolar que estou desenvolvendo para a empresa na qual trabalho para que eles possam parar de pagar mensalidade num software que é paia demais.
 
 🌱 No momento estou estudando Ciências Contábeis pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco.
+
+<img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
 <!--
 **GE-ASDF/ge-asdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
