@@ -6,8 +6,9 @@
 
 ### 🌱 No momento estou estudando Ciências Contábeis pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco. Em relação a programação comecei a estudar Java.
 
-### __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
+### ⚡ __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
 
+Minhas Stacks:
 <div style="display:flex;gap:2px">    
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -15,7 +16,11 @@
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40" />
 </div>
-          
+
+Contatos:
+<div style="display:flex;gap:2px">
+<a style="padding:2px 4px" href="https://www.linkedin.com/in/anderson-souza-20b732112?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</div>
           
           
           
