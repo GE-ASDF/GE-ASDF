@@ -29,8 +29,9 @@ Contatos:
           <img lazy src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
-          
-          
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
           
 <!--
 **GE-ASDF/ge-asdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
