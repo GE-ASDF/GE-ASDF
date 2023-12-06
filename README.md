@@ -19,7 +19,7 @@ Minhas Stacks:
 
 Contatos:
 <div style="display:flex;gap:2px">
-<a style="padding:2px 4px" href="https://www.linkedin.com/in/anderson-souza-20b732112?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a style="padding:2px 4px" href="https://www.linkedin.com/in/anderson-souza-20b732112?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />LinkedIn</a>
 </div>
           
           
