@@ -33,6 +33,12 @@ Contatos:
 </br>
 </br>
 
+Estudando agora:
+<p>      
+<img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+</p>
+          
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ge-asdf&show_icons=true&theme=radical)
 
           
